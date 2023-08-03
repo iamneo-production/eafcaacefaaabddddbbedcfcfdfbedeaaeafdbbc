@@ -17,35 +17,36 @@ const questions = [
                                                               option4: "Green",
                                                                   answer: "Green",
                                                                     },
-                                                                      {
-                                                                          questionId: 3,
-                                                                              question: "What color is the sky ?",
-                                                                                  option1: "Blue",
-                                                                                      option2: "Red",
-                                                                                          option3: "Yellow",
-                                                                                              option4: "Green",
-                                                                                                  answer: "Blue",
-                                                                                                    },
-                                                                                                      {
-                                                                                                          questionId: 4,
-                                                                                                              question: "What color is water ?",
-                                                                                                                  option1: "Blue",
-                                                                                                                      option2: "Red",
-                                                                                                                          option3: "Yellow",
-                                                                                                                              option4: "Green",
-                                                                                                                                  answer: "Blue",
-                                                                                                                                    },
-                                                                                                                                      {
-                                                                                                                                          questionId: 5,
-                                                                                                                                              question: "What color is fire ?",
-                                                                                                                                                  option1: "Blue",
-                                                                                                                                                      option2: "Red",
-                                                                                                                                                          option3: "Yellow",
-                                                                                                                                                              option4: "Green",
-                                                                                                                                                                  answer: "Red",
-                                                                                                                                                                    },
-                                                                                                                                                                    ];
+                                                                    {
+                                                                            questionId: 3,
+                                                                                question: "What color is the sky ?",
+                                                                                    option1: "Blue",
+                                                                                        option2: "Red",
+                                                                                            option3: "Yellow",
+                                                                                                option4: "Green",
+                                                                                                    answer: "Blue",
+                                                                                                      },
+                                                                                                        {
+                                                                                                            questionId: 4,
+                                                                                                                question: "What color is water ?",
+                                                                                                                    option1: "Blue",
+                                                                                                                        option2: "Red",
+                                                                                                                            option3: "Yellow",
+                                                                                                                                option4: "Green",
+                                                                                                                                    answer: "Blue",
+                                                                                                                                      },
+                                                                                                                                        {
+                                                                                                                                            questionId: 5,
+                                                                                                                                                question: "What color is fire ?",
+                                                                                                                                                    option1: "Blue",
+                                                                                                                                                        option2: "Red",
+                                                                                                                                                            option3: "Yellow",
+                                                                                                                                                                option4: "Green",
+                                                                                                                                                                    answer: "Red",
+                                                                                                                                                                      },
+                                                                                                                                                                      ];
 
-                                                                                                                                                                    export default questions;
-                                                                                                                                                                    
+                                                                                                                                                                      export default questions;
+                                                                                                                                                                      
+                                                                    }
 ]
